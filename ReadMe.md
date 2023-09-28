@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Unifametro. sou apaixonado<br>por tecnologia e programação.<br><br>💻 Hoje em dia meus estudos estão direcionados para o desenvolvimento Front-end, trabalhando em projetos<br>pessoais.<br><br>Buscando me aprimorar como programador.<br>🚀 Esse sou eu, pronto para enfrentar desafios no mundo da programação.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Unifametro. sou apaixonado<br>por tecnologia e programação.<br><br>💻 Hoje em dia meus estudos estão direcionados para o desenvolvimento, trabalhando em projetos<br>pessoais.<br><br>Buscando me aprimorar como programador.<br>🚀 Esse sou eu, pronto para enfrentar desafios no mundo da programação.
 
 
 # 💻 Tech Stack:
